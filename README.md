@@ -18,7 +18,7 @@ Trained with JAX and optimized using the Adam algorithm, the model was validated
 
 ## Files
 
-- `Managment_GR09_def (1).ipynb` – Main notebook with full model code and analysis.
+- `Project_GR09.ipynb` – Main notebook with full model code and analysis.
 - `DATASET.xlsx` – Required input data to run the model.
 
 ---
