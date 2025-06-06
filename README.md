@@ -12,7 +12,7 @@ Trained with JAX and optimized using the Adam algorithm, the model was validated
 - **Framework**: JAX (training and optimization)  
 - **Optimization**: Adam algorithm  
 - **Extra techniques**: Feature Importance + Monte Carlo simulation  
-- **Interface**: Simple and interactive, suitable for non-experts  
+- **Tool**: Simple and interactive, suitable for non-experts  
 
 ---
 
